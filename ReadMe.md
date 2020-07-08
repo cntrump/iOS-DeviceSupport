@@ -17,6 +17,9 @@ cp -r iOS-DeviceSupport/8.0 /Applications/Xcode.app/Contents/Developer/Platforms
 - 13.0
 - 13.1
 - 13.2
+- 13.3
+- 13.4
+- 13.5
 
 ### iOS 12
 - 12.0
@@ -50,3 +53,7 @@ cp -r iOS-DeviceSupport/8.0 /Applications/Xcode.app/Contents/Developer/Platforms
 - 8.2
 - 8.3
 - 8.4
+
+### iOS 7
+- 7.0
+- 7.1
